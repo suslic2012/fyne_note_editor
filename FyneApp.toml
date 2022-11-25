@@ -1,0 +1,6 @@
+[Details]
+  Icon = "edit_source.png"
+  Name = "Note Editor"
+  ID = "com.example.noteditor"
+  Version = "0.0.1"
+  Build = 3
